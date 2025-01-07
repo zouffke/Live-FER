@@ -1,0 +1,8 @@
+opencv-python
+asgiref
+flask
+torch
+pillow
+numpy
+torchvision
+uvicorn

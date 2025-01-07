@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+torch
+torchvision
+tensorboard
+pillow
+opencv-python
+flask
+asgiref
+uvicorn
